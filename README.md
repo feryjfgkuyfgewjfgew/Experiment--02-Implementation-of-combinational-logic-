@@ -25,17 +25,22 @@ Developed by: naresh.r
 RegisterNumber:  23005559
 */
 
-CODE
+##CODE
 
-![Alt text](<Screenshot 2023-12-14 075752-1.png>)
+![Screenshot 2023-12-14 075752](https://github.com/feryjfgkuyfgewjfgew/Experiment--02-Implementation-of-combinational-logic-/assets/150319377/46b2411a-07a4-40f6-8bed-67cf9438c448)
+
+
 
 ##TRUTH TABLE
+![Screenshot 2023-12-14 075832](https://github.com/feryjfgkuyfgewjfgew/Experiment--02-Implementation-of-combinational-logic-/assets/150319377/2137ad84-3682-480e-8338-674d889e1502)
 
-![Alt text](<Screenshot 2023-12-14 081846-1.png>)
 ## RTL
 
-![Alt text](<Screenshot 2023-12-14 081811.png>)
+![Screenshot 2023-12-14 081811](https://github.com/feryjfgkuyfgewjfgew/Experiment--02-Implementation-of-combinational-logic-/assets/150319377/3bb4e114-de91-4450-bff5-3502949bd792)
+
 ## Timing Diagram
-![Alt text](<Screenshot 2023-12-14 081846.png>)
+
+![Screenshot 2023-12-14 081846](https://github.com/feryjfgkuyfgewjfgew/Experiment--02-Implementation-of-combinational-logic-/assets/150319377/5fe024a8-f0ce-4f50-8256-417f7d6db560)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
